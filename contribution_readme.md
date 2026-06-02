@@ -1,15 +1,16 @@
 # Contribution [#]: [Issue Title]
 
-**Contribution Number:** [1 / 2 / 3]  
-**Student:** [Your Name]  
-**Issue:** [GitHub issue link]  
-**Status:** [Phase I / Phase II / Phase III / Phase IV] [In Progress / Complete]
+**Contribution Number:** [1]  
+**Student:** [Oluwatomisin Sapara-Williams]  
+**Issue:** [https://github.com/release-plz/release-plz/issues/1876]  
+**Status:** [Phase I]
 
 ---
 
 ## Why I Chose This Issue
 
-[1-2 paragraphs explaining why this issue interests you, how it matches your skills/learning goals, what you hope to learn]
+[I chose this issue because this a UI implementation, I enjoy working on designs and logos help users quickly identify what they are looking for and in this case, this would be for company's social which can helps users get more information]
+
 
 ---
 
@@ -17,7 +18,7 @@
 
 ### Problem Description
 
-[In your own words, what's broken or missing?]
+[ ]
 
 ### Expected Behavior
 
